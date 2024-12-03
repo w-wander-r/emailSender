@@ -1,0 +1,14 @@
+E:\pet-project\emailSender\bin\Debug\net8.0\emailSender.exe
+E:\pet-project\emailSender\bin\Debug\net8.0\emailSender.deps.json
+E:\pet-project\emailSender\bin\Debug\net8.0\emailSender.runtimeconfig.json
+E:\pet-project\emailSender\bin\Debug\net8.0\emailSender.dll
+E:\pet-project\emailSender\bin\Debug\net8.0\emailSender.pdb
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.GeneratedMSBuildEditorConfig.editorconfig
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.AssemblyInfoInputs.cache
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.AssemblyInfo.cs
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.csproj.CoreCompileInputs.cache
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.dll
+E:\pet-project\emailSender\obj\Debug\net8.0\refint\emailSender.dll
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.pdb
+E:\pet-project\emailSender\obj\Debug\net8.0\emailSender.genruntimeconfig.cache
+E:\pet-project\emailSender\obj\Debug\net8.0\ref\emailSender.dll
